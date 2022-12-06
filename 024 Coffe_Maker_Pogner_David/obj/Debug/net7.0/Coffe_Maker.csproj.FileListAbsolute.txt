@@ -1,0 +1,30 @@
+C:\HTL Leonding\Programmieren\Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.exe
+C:\HTL Leonding\Programmieren\Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.deps.json
+C:\HTL Leonding\Programmieren\Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.runtimeconfig.json
+C:\HTL Leonding\Programmieren\Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.pdb
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.csproj.AssemblyReference.cache
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.AssemblyInfoInputs.cache
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.AssemblyInfo.cs
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.csproj.CoreCompileInputs.cache
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\refint\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.pdb
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.genruntimeconfig.cache
+C:\HTL Leonding\Programmieren\Coffe_Maker\obj\Debug\net7.0\ref\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.exe
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.deps.json
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.runtimeconfig.json
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\bin\Debug\net7.0\Coffe_Maker.pdb
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.csproj.AssemblyReference.cache
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.AssemblyInfoInputs.cache
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.AssemblyInfo.cs
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.csproj.CoreCompileInputs.cache
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\refint\Coffe_Maker.dll
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.pdb
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\Coffe_Maker.genruntimeconfig.cache
+C:\HTL Leonding\Programmieren\024 Coffe_Maker\obj\Debug\net7.0\ref\Coffe_Maker.dll
